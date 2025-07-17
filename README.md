@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi👋 I'm Sky Lin - Aspiring Investment Banker!
+
+##### Though I plan on breaking into Wall Street as an investment banker, this certainly doesn't stop me from dabbling in foundational languages that are the bits and bolts of how our world operates. I strive to bridge the disparate worlds of business and technology—creating practical solutions that are leveraged in our day-to-day lives. I am open to any and all academic opportunities that pertain to my aspirations.
 
 <!--
 **SkyLin0724/SkyLin0724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
